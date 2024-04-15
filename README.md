@@ -1,4 +1,4 @@
-# MedianTracker
+# MOHAMMED's MedianTracker
 
 ## Time Analysis
 
@@ -59,12 +59,10 @@ This complexity arises from the fact that each insertion and deletion operation 
 ---
 ## Credits
 
-These documents were created by MOHAMMED.
+These documents/files were created by MOHAMMED.
 
 ## License
 
 This project is licensed under the [MOHAMMED LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md). For more details, see the [LICENSE](https://github.com/tech-moh-logy/MOHAMMED-License/blob/main/README.md) file.
 
 <sub>Legal Notice: Any unauthorized use, disclosure, distribution, downloading, forwarding, or printing of this email or its attachments without permission may constitute a violation of intellectual property rights and confidentiality agreements. Legal actions, including but not limited to civil litigation, may be pursued against individuals or entities found in violation of these terms. By accessing, viewing, or using this email, you acknowledge and agree to abide by these restrictions.</sub>
-
-Looking forward to connecting with you!# MedianTracker-main
